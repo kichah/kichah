@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @kichah
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on working on a Dominoes result calculator(have a few ideas but not yet implemented) 
+- 👀 I’m interested in Web Development
+- 💪 I’m well verst in HTML CSS JS Git & github 
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on working on prject 
 - 📫 How to reach me email:abdellatifkichah@gmail.com facebook: abdellatif tofi kichah
 
 <!---
